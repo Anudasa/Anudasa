@@ -1,5 +1,3 @@
-Hi there. 
+Hello there
 
-I am anudasa, your humble servant. 
-I am 2 yo
-Gouranga!
+I am new to world of developing and coding and eager to learn more. 
